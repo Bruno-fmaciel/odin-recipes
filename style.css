@@ -1,0 +1,32 @@
+button {
+    font-size: 32px;
+    font-weight: bold;
+    background-color: greenyellow;
+}
+
+#first {
+    text-align: left;
+    margin: auto;
+    display: flex;
+    display: grid;
+}
+
+#third {
+    text-align: right;
+    margin: auto;
+    display: flex;
+    display: grid;
+}
+
+#second {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    display: grid;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: green;
+}
